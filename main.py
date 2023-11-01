@@ -178,7 +178,7 @@ info_label.setAlignment(Qt.AlignmentFlag.AlignLeft)
 info_label.setWordWrap(True)
 layout.addWidget(info_label)
 
-signature_label = QLabel("Andrejs Birzgals, 2023")
+signature_label = QLabel("Applied Cryptography, 2023")
 signature_label.setAlignment(Qt.AlignmentFlag.AlignRight)
 
 layout.addWidget(signature_label)
