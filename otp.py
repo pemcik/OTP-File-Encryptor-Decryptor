@@ -44,7 +44,6 @@ def decrypt(encrypted_filename, otp_filename, decrypted_filename):
 print("")
 print("🌟 Welcome to the Ultimate OTP File Encryption & Decryption Tool 🌟")
 print("🛡️ Your go-to solution for secure file cryptography!")
-print("🌐 Visit my GitHub repository for readme, other source codes for this and more comments: https://github.com/MasterAGB/OTP-File-Encryptor-Decryptor")
 print("--------------------------------------------------------------------------------------")
 
 if __name__ == '__main__':
